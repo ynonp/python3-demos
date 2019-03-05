@@ -1,0 +1,9 @@
+Hello world
+This is a file created by python
+bye bye
+Hello world
+This is a file created by python
+bye bye
+Hello world
+This is a file created by python
+bye bye
